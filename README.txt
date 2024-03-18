@@ -1,4 +1,4 @@
-# **Projeto: Hortopedia - Smart Garden** 🪴  <h1>
+# **Projeto: Hortopedia - Smart Garden** 🪴  
 
 ## Descrição:
 Na Hortopedia, estamos dedicados a reinventar a forma como as pessoas cultivam plantas em casa, trazendo uma abordagem inovadora e sustentável para a jardinagem doméstica. Acreditamos que o cultivo de plantas pode ser gratificante e benéfico para o meio ambiente. Nosso objetivo é tornar essa visão uma realidade tangível para a sociedade atual e futura <h2>
